@@ -1,4 +1,6 @@
-# LCPlay
+# Leela-Deala
+
+Leela-Deala is a web interface that allows users to play chess against the LC0 (Leela Chess Zero) engine, enabling both casual and intense gameplay experiences through different modes. ♟️💻✨
 
 ## Todo
 
